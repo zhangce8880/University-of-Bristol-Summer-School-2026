@@ -3,6 +3,6 @@ This repository is practical materials of our Bristol Intensive Selection Camp S
 
 Click on the following link to launch this practical through BinderHub:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hao-Z-hang/University-of-Bristol-Summer-School-2024/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zhangce8880/University-of-Bristol-Summer-School-2026/main?urlpath=%2Fdoc%2Ftree%2FHandbook%2FEMhandbook.ipynb)
 
-The practical in the Session 1 uses data obtained from [Landsat 7](https://eospso.gsfc.nasa.gov/missions/landsat-7), and the Session 2 analyzes text data from Foursquare and Yelp.
+The practical uses data obtained from [Landsat 7](https://eospso.gsfc.nasa.gov/missions/landsat-7)
